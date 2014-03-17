@@ -6,6 +6,9 @@
 
 # Programming
 
+## Javascript
+  * [Color picker](http://lonely-pixel.com/projects/picker/)
+
 ## PHP
   * [PHP Live Regex](http://phpliveregex.com/) - Live regular rxpression tester for PHP 
   * [PHP Simple HTML DOM](http://simplehtmldom.sourceforge.net/) - A HTML DOM parser written in PHP5+ let you manipulate HTML in a very easy way! 
