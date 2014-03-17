@@ -8,7 +8,7 @@
 
 ## Javascript
   * [Color picker](http://lonely-pixel.com/projects/picker/)
-  * [Lightweight progress bar](http://nanobar.micronube.com/)
+  * [Nanobar](http://nanobar.micronube.com/) - Lightweight progress bar
 
 ## PHP
   * [PHP Live Regex](http://phpliveregex.com/) - Live regular rxpression tester for PHP 
