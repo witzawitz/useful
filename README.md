@@ -6,6 +6,9 @@
   * [Iconfinder](https://www.iconfinder.com/) - Icon search engine and marke tplace
 
 ## Developing
+### Bootstrap 
+  * [Free bootstrap themes](http://bootswatch.com/)
+
 ### Javascript
   * [Color picker](http://lonely-pixel.com/projects/picker/)
   * [Nanobar](http://nanobar.micronube.com/) - Lightweight progress bar
