@@ -6,7 +6,7 @@
   * [Iconfinder](https://www.iconfinder.com/) - Icon search engine and marke tplace
 
 ### Tools
-  * [Color Schemes Design](http://colorschemedesigner.com/)
+  * [Color Schemes Designer](http://colorschemedesigner.com/)
 
 ## Developing
 ### Bootstrap 
