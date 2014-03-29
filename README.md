@@ -19,6 +19,7 @@
   * [Underscore.js](http://underscorejs.org/) - Get rid of loops.
   * [rowGrid.js](http://brunjo.github.io/rowGrid.js/) - A small, lightweight jQuery plugin for placing items in straight rows.
   * [Dug.js](http://rog.ie/blog/dugjs-a-jsonp-to-html-script) - JSONP to HTML
+  * [Unheap](http://www.unheap.com/) - Tidy repository of jQuery plugins.
 
 ### PHP
   * [PHP Live Regex](http://phpliveregex.com/) - Live regular rxpression tester for PHP 
@@ -44,3 +45,6 @@
 
 ### Datasheets
   * [Unicode character table](http://unicode-table.com/ru/)
+
+### Maps
+  * [Snazzy](http://snazzymaps.com/) - Repository of different color schemes for Google Maps.
