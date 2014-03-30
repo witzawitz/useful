@@ -45,6 +45,7 @@
 
 ### Datasheets
   * [Unicode character table](http://unicode-table.com/ru/)
+  * [Словарь терминов по фронтенду](https://github.com/web-standards-ru/dictionary/blob/master/Dictionary.md)
 
 ### Maps
   * [Snazzy](http://snazzymaps.com/) - Repository of different color schemes for Google Maps.
