@@ -9,6 +9,9 @@
   * [Color Schemes Designer](http://colorschemedesigner.com/)
 
 ## Developing
+### General
+  * [Online regex tester and debugger](http://regex101.com/)
+
 ### Bootstrap 
   * [Free bootstrap themes](http://bootswatch.com/)
 
@@ -43,6 +46,10 @@
   * [Semantic HTML](http://kevinsuttle.com/posts/the-art-of-html-semantics-pt1/)
   * [ProfsoUX](http://habrahabr.ru/post/214253/) - Conference on UX
   * [Временные ряды](http://blog.selectel.ru/yawndb-time-series-baza-dannyx/)
+  * [Rails SQL InjectionExample](http://rails-sqli.org/)
+  * [HTML по стандартам](http://habrahabr.ru/company/ifree/blog/216045/)
+  * [PHP: правильный путь](http://getjump.github.io/ru-php-the-right-way/)
+  * [10 Papers Every Programmer Should Read at Least Twice](http://michaelfeathers.tumblr.com/post/81489281/10-papers-every-programmer-should-read-at-least-twice)
 
 ### Datasheets
   * [Unicode character table](http://unicode-table.com/ru/)
