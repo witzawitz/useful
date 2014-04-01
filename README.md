@@ -42,6 +42,7 @@
 ### Articles
   * [Semantic HTML](http://kevinsuttle.com/posts/the-art-of-html-semantics-pt1/)
   * [ProfsoUX](http://habrahabr.ru/post/214253/) - Conference on UX
+  * [Временные ряды](http://blog.selectel.ru/yawndb-time-series-baza-dannyx/)
 
 ### Datasheets
   * [Unicode character table](http://unicode-table.com/ru/)
