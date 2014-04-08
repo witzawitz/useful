@@ -23,6 +23,7 @@
   * [rowGrid.js](http://brunjo.github.io/rowGrid.js/) - A small, lightweight jQuery plugin for placing items in straight rows.
   * [Dug.js](http://rog.ie/blog/dugjs-a-jsonp-to-html-script) - JSONP to HTML
   * [Unheap](http://www.unheap.com/) - Tidy repository of jQuery plugins.
+  * [D3.js](http://d3js.org/) - JavaScript library for manipulating documents based on data.
 
 ### PHP
   * [PHP Live Regex](http://phpliveregex.com/) - Live regular rxpression tester for PHP 
