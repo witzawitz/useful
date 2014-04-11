@@ -24,6 +24,7 @@
   * [Dug.js](http://rog.ie/blog/dugjs-a-jsonp-to-html-script) - JSONP to HTML
   * [Unheap](http://www.unheap.com/) - Tidy repository of jQuery plugins.
   * [D3.js](http://d3js.org/) - JavaScript library for manipulating documents based on data.
+  * [Lo-Dash](http://lodash.com/) - A utility library delivering consistency, customization, performance, & extras.
 
 ### PHP
   * [PHP Live Regex](http://phpliveregex.com/) - Live regular rxpression tester for PHP 
@@ -51,6 +52,7 @@
   * [HTML по стандартам](http://habrahabr.ru/company/ifree/blog/216045/)
   * [PHP: правильный путь](http://getjump.github.io/ru-php-the-right-way/)
   * [10 Papers Every Programmer Should Read at Least Twice](http://michaelfeathers.tumblr.com/post/81489281/10-papers-every-programmer-should-read-at-least-twice)
+  * [Шпаргалка по Lo-Dash](http://habrahabr.ru/post/217515/)
 
 ### Datasheets
   * [Unicode character table](http://unicode-table.com/ru/)
